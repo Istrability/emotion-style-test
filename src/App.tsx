@@ -1,5 +1,4 @@
 /** @jsxImportSource @emotion/react */
-import { jsx } from "@emotion/react";
 
 export const App: React.FC = () => {
   return (
