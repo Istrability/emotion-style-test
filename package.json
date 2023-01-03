@@ -2,6 +2,7 @@
   "name": "my-second-ts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Istrability.github.io/test",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@types/node": "^18.11.18",
